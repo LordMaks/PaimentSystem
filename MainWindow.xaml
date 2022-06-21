@@ -9,7 +9,7 @@
         Foreground="White"
         FontSize="16"
         FontFamily="Century Gothic"
-        Title="Payment" Height="550" Width="560" Icon="Resources/parrot.png">
+        Title="Payment" Height="550" Width="560">
 
     <Grid Margin="15" Background="Green" >
 
